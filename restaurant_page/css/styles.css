@@ -1,0 +1,78 @@
+body {
+    font-size: 16px;
+    color: #fff;
+    background-color: #E7EAEF;
+    font-family: 'Oxygen', sans-serif;
+}
+
+header {
+    padding-bottom: 0px;
+    margin-bottom: 0;
+}
+
+#header-nav {
+    background: #37745B;
+    border-radius: 0;
+    border: 0;
+}
+
+.navbar-brand a {
+    text-decoration: none;
+    color: #E7EAEF;
+}
+
+.navbar-toggler {
+    float: right;
+}
+
+#logo-img {
+    background-image: url("/pics/logo-social.png");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    width: 150px;
+    height: 150px;
+    margin: 10px;
+}
+
+#logo {
+    background: url("/pics/icon.jpg") no-repeat;
+}
+
+#pull-left {
+    float: left;
+}
+
+.active {
+    color: #E7EAEF;
+}
+
+.main-text-header {
+    color: black;
+    font-weight: bolder;
+}
+
+.description-box {
+    background-color: #d3e3b6;
+}
+
+.description-text {
+    height: 1000px;
+    color: #217074;
+    font-size: 20px;
+}
+
+.description-subtitle {
+    color: #217074;
+    font-weight: bold;
+    padding: 10px;
+}
+
+.navbar-collapse {
+    width: 100%;
+}
+
+.nav-item {
+    text-align: center;
+    background-color: #d3e3b6;
+    margin-bottom: 0px;
+}
