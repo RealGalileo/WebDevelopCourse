@@ -25,19 +25,6 @@ header {
     float: right;
 }
 
-#logo-img {
-    background-image: url("/pics/logo-social.png");
-    background-size: 100% 100%;
-    background-repeat: no-repeat;
-    width: 150px;
-    height: 150px;
-    margin: 10px;
-}
-
-#logo {
-    background: url("/pics/icon.jpg") no-repeat;
-}
-
 #pull-left {
     float: left;
 }
@@ -76,3 +63,7 @@ header {
     background-color: #d3e3b6;
     margin-bottom: 0px;
 }
+ #des-box {
+     width: 90% !important;
+     max-width: 90% !important;
+ }
